@@ -1,4 +1,4 @@
-%%writefile app.py
+
 from flask import Flask, jsonify, request
 import joblib
 import pandas as pd
